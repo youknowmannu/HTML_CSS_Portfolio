@@ -22,6 +22,7 @@ Alternatively, you can visit the live version of the website at [insert your liv
 Preview
 Here are some screenshots of the portfolio website:
 
+![image](https://github.com/youknowmannu/HTML_CSS_Portfolio/assets/130030050/98ca17f7-afc6-41b0-a95f-7b1d1932e01a)
 
 
 
