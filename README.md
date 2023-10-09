@@ -2,7 +2,7 @@
 
 # HTML_CSS_Portfolio
 
-This repository contains a simple portfolio website that I created using only HTML and CSS. The purpose of this project is to showcase my work, skills, and experiences in a clean and visually appealing manner.It is a single-page application that serves as an online resume and portfolio. It provides a brief overview of who I am, the projects I've worked on, and the skills I possess. The website's design is minimalist yet modern, focusing on presenting information effectively and providing a smooth user experience.
+This repository houses a meticulously designed single-page portfolio website, exclusively crafted using HTML and CSS. Its core objective is to elegantly showcase my professional accomplishments, competencies, and experiences while maintaining a clean and visually pleasing design. With features such as an online resume and portfolio, project showcase, and skill highlights, the website strikes a balance between minimalism and modern aesthetics, focusing on effective information delivery and a user-friendly experience.
 
 **How to Use:**
 
